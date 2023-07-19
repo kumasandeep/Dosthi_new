@@ -1,0 +1,37 @@
+3.Install the require environment for the project are 
+----PostMan for verify the all the api's
+----Mongodb compass for acess the cluster and make connections
+----Clouding Platform for uploading images.
+
+4.Required Extensions for the project
+----React Dark  pro
+----React Material Icon
+----Pretier Code Formater
+----Github Copilot
+----Auto Rename Tag
+----Bracket Pair Coloriser
+----Env 
+----ES7 + ReactNative Snippets
+----One Dark Pro Darker
+
+
+6.Setup Basic Frontend
+----Using npm packages
+----using Apps.js and index.js components of src
+----Using scripts for running the Frontend
+
+8.Setup Basic Backend
+----Using npm packages
+----Creating api for the communication with UI
+----Using nodemon for running the server.js
+----Using scripts npm start and npm run
+----Using routes 
+----Setting routes for the components
+----Using express package and creating the backend server.
+
+10.CORS fully explained and setup the server
+----CORS stands for [CROSS ORIGIN RESOURCE SHARING]
+----Cors is a node js package thats adds
+    a layer of security, to your api/servers,
+    and limit who can access it.
+----
